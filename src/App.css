@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+.container{
+  border:solid #dee2e6;
+  border-top-left-radius: 0.25rem;
+  border-width:1px;
+  margin:auto;
+  width:30%;
+  padding:10px;
+  margin-top: 10px;
+}
+
+.align-left{
+  text-align:left;
+}
+
+input[type=text]
+{
+  border:none;
+  border-bottom:2px solid #dee2e6;
+  background-color:transparent;
+  outline:none;
+  outline-style: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  width: 99%;
+  padding: 4px;
+  margin-top: 12px;
+}
+
+.sort-btn{
+  float: right;
+  }
+
+  .prevButton{
+    margin-right: 5px;
+}
+
+.header{
+  border: 1px solid #dee2e6;
+  background-color: #dee2e6;
+  padding:10px;
+  margin: 0px;
+}

@@ -1,0 +1,29 @@
+.list{
+    margin-top: 10px;
+}
+.not-favourite{
+    margin-left: 10px;
+    margin-right: 10px;
+    border:1px solid;
+    padding: 5px;
+    background-color: #dee2e6;
+}
+.favourite{
+    margin-left: 10px;
+    margin-right: 10px;
+    border:1px solid;
+    padding: 5px;
+    background-color: #dee2e6;
+}
+.label-font{
+    font-size: 13px;
+}
+.btns{
+    display: flex;
+    float:right;
+}
+.delete-btn{
+    border:1px solid;
+    padding: 5px;
+    background-color: #dee2e6;
+}
